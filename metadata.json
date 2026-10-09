@@ -1,0 +1,6 @@
+{
+  "name": "ForenSight AI — Digital Forensics Timeline Reconstruction",
+  "description": "Enterprise digital forensics timeline reconstruction platform correlating multi-source logs, normalizing timestamps, detecting explainable anomalies, and preserving evidence integrity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
